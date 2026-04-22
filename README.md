@@ -73,9 +73,7 @@ RegisterNumber:  212225220086
 ```
 ## Output:
 ![linear regression using gradient descent](sam.png)
-<img width="782" height="741" alt="Screenshot 2026-04-22 093625" src="https://github.com/user-attachments/assets/28f8eff6-1490-43d6-ab51-e872a4a7dac6" />
-<img width="641" height="452" alt="Screenshot 2026-04-22 093641" src="https://github.com/user-attachments/assets/a2042a05-0b8d-4b1c-9366-45bc9b6bec98" />
-<img width="786" height="559" alt="Screenshot 2026-04-22 093652" src="https://github.com/user-attachments/assets/cf35e5d1-b15d-4b27-a973-295fe9da3a1f" />
+<img width="699" height="854" alt="image" src="https://github.com/user-attachments/assets/9df21c17-4ff9-42fd-b80a-ffb5f53723d7" />
 
 ## Result:
 Thus the program to implement the linear regression using gradient descent is written and verified using python programming.
